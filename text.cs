@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace heartBlade5X
+namespace project
 {
     internal class text
     {
